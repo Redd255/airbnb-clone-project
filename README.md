@@ -58,8 +58,8 @@ This project is a backend simulation of a scalable property booking platform lik
 
 ---
 
-## 🔐 API Security
-
+## API Security
+API Security
 - **Authentication**: Secure login to verify users.
 - **Authorization**: Only authorized users can perform specific actions (e.g., only hosts can edit listings).
 - **Rate Limiting**: Prevents abuse like brute-force login attempts.
