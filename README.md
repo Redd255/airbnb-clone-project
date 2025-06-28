@@ -1,3 +1,4 @@
 # airbnb-clone-project
 
-#Team Roles
+# Team Roles
+# echnology Stack
